@@ -2,7 +2,7 @@
 
 Goal of the project:
 
-To sort data on a stack, with a limited set of instructions, using the lowest possible number of actions.
+To sort data on a stack with a limited set of instructions using the lowest possible number of actions.
 
 To do so we have the following operations at our disposal:
 - sa (swap a): Swap the first 2 elements at the top of stack a. Do nothing if there is only one or no elements.
