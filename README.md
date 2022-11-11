@@ -31,8 +31,15 @@ pa
 
 $>./push_swap 0 one 2 3
 
-Error 
+error
 
+### Push swap visualizer (Using @elijahkash [push_swap_gui](https://github.com/elijahkash/push_swap_gui) visualizer)
+
+![2022-11-11 21-30-06](https://user-images.githubusercontent.com/66158938/201400534-9c36698b-c766-4ecf-9bfb-f492d5a9f746.gif)
+
+
+
+### Score:
 
 <img width="73" alt="image" src="https://user-images.githubusercontent.com/66158938/200159318-b11bcb1c-7674-44f9-a484-c9a60c9ca8d3.png">
 
