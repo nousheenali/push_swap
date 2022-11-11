@@ -33,7 +33,8 @@ $>./push_swap 0 one 2 3
 
 error
 
-### Push swap visualizer (Using @elijahkash [push_swap_gui](https://github.com/elijahkash/push_swap_gui) visualizer)
+### Push swap visualizer 
+Using @elijahkash [push_swap_gui](https://github.com/elijahkash/push_swap_gui) visualizer
 
 ![2022-11-11 21-30-06](https://user-images.githubusercontent.com/66158938/201400534-9c36698b-c766-4ecf-9bfb-f492d5a9f746.gif)
 
